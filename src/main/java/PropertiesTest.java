@@ -4,7 +4,6 @@ import java.io.FileOutputStream;
 import java.util.Properties;
 
 public class PropertiesTest {
-
     public static void main(String[] args) {
 
 //      FileOutputStream fos = null;
@@ -44,7 +43,7 @@ public class PropertiesTest {
             System.out.println(userName);
             System.out.println(passWord);
 
-        } catch (Exception e){
+        } catch (Exception e) {
             e.printStackTrace();
         }
     }

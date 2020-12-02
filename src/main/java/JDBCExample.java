@@ -18,9 +18,9 @@ public class JDBCExample {
 
             //System.out.println(Arrays.asList(emp.getAllEmployees(forbindelseTilMySQL.createStatement())));
 
-            HashMap <String, Object> map = new HashMap<String, Object>();
+            HashMap<String, Object> map = new HashMap<String, Object>();
             map = emp.getAllEmployees(forbindelseTilMySQL.createStatement());
-            for(Object key:map.values()){
+            for (Object key : map.values()) {
                 System.out.println(key);
             }
 
@@ -62,7 +62,7 @@ public class JDBCExample {
             }
             */
 
-        } catch (SQLException e){
+        } catch (SQLException e) {
             e.printStackTrace();
         }
     }

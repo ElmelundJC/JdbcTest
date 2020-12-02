@@ -14,7 +14,7 @@ public class DatabaseConnectionManager {
     private String PASSWORD;
     private String TIMEZONE;
 
-    public DatabaseConnectionManager(){
+    public DatabaseConnectionManager() {
 
 
         /*this.URL = propConfig.getProperty("url");
@@ -62,15 +62,14 @@ public class DatabaseConnectionManager {
             System.out.println(passWord);
 */
             //System.out.println("Shit works");
-        } catch (Exception e){
+        } catch (Exception e) {
             e.printStackTrace();
         }
     }
 
 
-    public Connection getDatabaseConnection()throws SQLException
-    {
+    public Connection getDatabaseConnection() throws SQLException {
 
-        return DriverManager.getConnection(URL+DATABASE+TIMEZONE,USERNAME,PASSWORD);
+        return DriverManager.getConnection(URL + DATABASE + TIMEZONE, USERNAME, PASSWORD);
     }
 }
