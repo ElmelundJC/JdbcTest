@@ -4,18 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="360a1b9f-e22a-4092-bff7-91052dd13f62" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/DatabaseConnectionManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/DatabaseConnectionManager.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Employee.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Employee.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/JDBCExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/JDBCExample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Person.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/PropertiesTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/PropertiesTest.java" afterDir="false" />
-    </list>
+    <list default="true" id="360a1b9f-e22a-4092-bff7-91052dd13f62" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -95,6 +84,7 @@
       <workItem from="1586941315285" duration="129000" />
       <workItem from="1588832468512" duration="1468000" />
       <workItem from="1601323445445" duration="56000" />
+      <workItem from="1606989200872" duration="171000" />
     </task>
     <servers />
   </component>
@@ -102,37 +92,9 @@
     <option name="version" value="3" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="416" y="63" key="#Project_Structure" timestamp="1588833666054">
+    <state x="29" y="43" key="#Project_Structure" timestamp="1606989209311">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state x="416" y="63" key="#Project_Structure/0.23.1440.877@0.23.1440.877" timestamp="1588833666054" />
-    <state width="1085" height="65" key="GridCell.Tab.0.bottom" timestamp="1585753159431">
-      <screen x="0" y="23" width="1440" height="877" />
-    </state>
-    <state width="1085" height="65" key="GridCell.Tab.0.bottom/0.23.1440.877@0.23.1440.877" timestamp="1585753159431" />
-    <state width="1085" height="65" key="GridCell.Tab.0.center" timestamp="1585753159429">
-      <screen x="0" y="23" width="1440" height="877" />
-    </state>
-    <state width="1085" height="65" key="GridCell.Tab.0.center/0.23.1440.877@0.23.1440.877" timestamp="1585753159429" />
-    <state width="1085" height="65" key="GridCell.Tab.0.left" timestamp="1585753159429">
-      <screen x="0" y="23" width="1440" height="877" />
-    </state>
-    <state width="1085" height="65" key="GridCell.Tab.0.left/0.23.1440.877@0.23.1440.877" timestamp="1585753159429" />
-    <state width="1085" height="65" key="GridCell.Tab.0.right" timestamp="1585753159430">
-      <screen x="0" y="23" width="1440" height="877" />
-    </state>
-    <state width="1085" height="65" key="GridCell.Tab.0.right/0.23.1440.877@0.23.1440.877" timestamp="1585753159430" />
-    <state x="221" y="100" key="SettingsEditor" timestamp="1585748679228">
-      <screen x="0" y="23" width="1440" height="877" />
-    </state>
-    <state x="221" y="100" key="SettingsEditor/0.23.1440.877@0.23.1440.877" timestamp="1585748679228" />
-    <state x="0" y="569" key="com.intellij.ide.util.TipDialog" timestamp="1585809682322">
-      <screen x="0" y="23" width="1440" height="877" />
-    </state>
-    <state x="0" y="569" key="com.intellij.ide.util.TipDialog/0.23.1440.877@0.23.1440.877" timestamp="1585809682322" />
-    <state x="194" y="162" key="new project wizard" timestamp="1585811330277">
-      <screen x="0" y="23" width="1440" height="877" />
-    </state>
-    <state x="194" y="162" key="new project wizard/0.23.1440.877@0.23.1440.877" timestamp="1585811330277" />
+    <state x="29" y="43" key="#Project_Structure/0.23.1440.877@0.23.1440.877" timestamp="1606989209311" />
   </component>
 </project>
